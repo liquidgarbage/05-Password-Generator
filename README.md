@@ -22,13 +22,16 @@ N/A
 
 ## Usage
 
-ADD SCREENSHOT
+![Alt text](
 
 
 ## Credits
 
 [Project Instructions](./instructions.md)
 
+[parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+
+[Friend's help](https://www.linkedin.com/in/robin-higham-32243766/)
 
 
 ## License
