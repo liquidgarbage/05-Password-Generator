@@ -8,22 +8,28 @@ https://liquidgarbage.github.io/05-Password-Generator/
 
 
 ## Description
+I wanted to strech my Javascript skills by building a password generator. 
+It was challenging at first, I struggled to get my head around storing the user input from the prompts/alerts. 
+I asked a games developer friend for help (linked in the credits).
+He guided me in how to break down each problem I was trying to solve. This massively helped. I felt able to approach each problem instead of getting overwhelmed by everything. 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Learning how to break the problems down effectively has made creating other projects less daunting. I also feel more able to ask for help. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+In terms of Javascript, I learnt about parseInt, functions and methods.
 
 ## Installation
 
 N/A
 
 ## Usage
+First prompt for password length:
+![password length prompt](/assets/choice.png)
 
-![Alt text](
+Alert for character options:
+![password character alert](/assets/choice1.png)
 
+Password output:
+![password output](/assets/end.png)
 
 ## Credits
 
